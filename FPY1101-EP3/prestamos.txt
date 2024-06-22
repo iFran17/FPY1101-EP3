@@ -1,0 +1,3 @@
+Título	Autor	Año de Publicación	SKU
+HOLAAAA	FRAN	2000	44444
+CHAOOO	FRNA	3000	DASA
